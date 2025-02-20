@@ -1,4 +1,4 @@
-import PublicBanner from '../_components/PublicBanner'
+import PublicBanner from '../../_components/PublicBanner'
 import ServicesCompassionInAction from './_components/ServicesCompassionInAction'
 import ServicesList from './_components/ServicesList'
 

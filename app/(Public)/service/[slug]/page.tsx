@@ -1,7 +1,7 @@
 import React from 'react'
-import PublicBanner from '../_components/PublicBanner'
-import ServiceDetailLeft from './_components/ServiceDetailLeft'
-import ServiceDetailRight from './_components/ServiceDetailRight'
+import PublicBanner from '../../../_components/PublicBanner'
+import ServiceDetailLeft from '../_components/ServiceDetailLeft'
+import ServiceDetailRight from '../_components/ServiceDetailRight'
 
 function ServiceDetailPage() {
     return (

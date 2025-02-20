@@ -3,7 +3,7 @@
 
 import React, { useEffect } from 'react';
 import Image from 'next/image';
-import PublicHeader from './_components/PublicHeader';
+import PublicHeader from '../_components/PublicHeader';
 import Script from 'next/script';
 import '../public.css'
 import '../globals.css'
@@ -47,7 +47,7 @@ import "@/public/assets/css/flaticon_1.css"
 import "@/public/assets/css/wc-blocks.css"
 import "@/public/assets/css/post-16.css"
 import Head from 'next/head';
-import PublicFooter from './_components/PublicFooter';
+import PublicFooter from '../_components/PublicFooter';
 
 
 function PublicLayout({

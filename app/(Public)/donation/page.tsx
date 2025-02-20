@@ -1,4 +1,4 @@
-import PublicBanner from '../_components/PublicBanner'
+import PublicBanner from '../../_components/PublicBanner'
 import DonationDetailContent from './_components/DonationDetailContent'
 
 function DonationDetailPage() {

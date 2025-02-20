@@ -1,6 +1,6 @@
 'use client'
 
-import PublicBanner from "../_components/PublicBanner"
+import PublicBanner from "../../_components/PublicBanner"
 import AboutAwesomeGallery from "./_components/AboutAwesomeGallery"
 import AboutBuildingBrighterFuture from "./_components/AboutBuildingBrighterFuture"
 import AboutCompassionInAction from "./_components/AboutCompassionInAction"

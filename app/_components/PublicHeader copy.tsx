@@ -17,11 +17,11 @@ function PublicHeader() {
                                             <ul className="contact-info">
                                                 <li>
                                                     <i className="ti-email"></i><a href="#"
-                                                        className="info-link"><span>support@aidus.com</span></a>
+                                                        className="info-link"><span>support@sample.com</span></a>
                                                 </li>
                                                 <li>
                                                     <i className="fi flaticon-phone"></i><a href="#"
-                                                        className="info-link"><span>+88 7869 5874 96</span></a>
+                                                        className="info-link"><span>+12 1234 5874 96</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -57,7 +57,7 @@ function PublicHeader() {
                                 <div className="container-fluid">
                                     <div className="row align-items-center">
                                         <div className="col-lg-3 col-12">
-                                            <a className="navbar-brand logo-mid" href="https://aidus.wpolive.com/">
+                                            <a className="navbar-brand logo-mid" href="#">
                                                 <Image decoding="async" src="/assets/fonts/logo.svg" alt="http://logo" width={126} height={46} /> </a>
                                         </div>
                                         <div className="col-lg-9 col-12">
@@ -128,7 +128,7 @@ function PublicHeader() {
                                                 </div>
                                                 <div className="col-lg-0 col-md-6 col-6">
                                                     <div className="navbar-header">
-                                                        <a className="navbar-brand" href="https://aidus.wpolive.com/">
+                                                        <a className="navbar-brand" href="#">
                                                             <Image decoding="async" src="/assets/fonts/logo-2.svg"
                                                                 alt="http://logo-2" width={126} height={46} /> </a>
                                                     </div>
@@ -139,185 +139,185 @@ function PublicHeader() {
                                                         <ul id="menu-1-350abb2" className="nav navbar-nav mb-2 mb-lg-0">
                                                             <li id="menu-item-23"
                                                                 className="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-23">
-                                                                <a href="https://aidus.wpolive.com/">Home</a>
+                                                                <a href="#">Home</a>
                                                                 <ul className="sub-menu">
                                                                     <li id="menu-item-200"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-200">
-                                                                        <a href="https://aidus.wpolive.com/">Home Style
+                                                                        <a href="#">Home Style
                                                                             1</a></li>
                                                                     <li id="menu-item-202"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-202">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/home-style-2/">Home
+                                                                            href="/home-style-2/">Home
                                                                             Style 2</a></li>
                                                                     <li id="menu-item-201"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-201">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/home-style-3/">Home
+                                                                            href="/home-style-3/">Home
                                                                             Style 3</a></li>
                                                                 </ul>
                                                             </li>
                                                             <li id="menu-item-203"
                                                                 className="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-178 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-203">
-                                                                <a href="https://aidus.wpolive.com/about-us/"
+                                                                <a href="/about-us/"
                                                                     aria-current="page">Pages</a>
                                                                 <ul className="sub-menu">
                                                                     <li id="menu-item-3591"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-178 current_page_item menu-item-3591">
-                                                                        <a href="https://aidus.wpolive.com/about-us/"
+                                                                        <a href="/about-us/"
                                                                             aria-current="page">About Us</a></li>
                                                                     <li id="menu-item-3590"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-3590">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/donations/lets-be-kind-for-the-poor-children/">Donate</a>
+                                                                            href="/donations/lets-be-kind-for-the-poor-children/">Donate</a>
                                                                     </li>
                                                                     <li id="menu-item-205"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-205">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/causes/">Causes</a>
+                                                                            href="/causes/">Causes</a>
                                                                         <ul className="sub-menu">
                                                                             <li id="menu-item-208"
                                                                                 className="menu-item menu-item-type-post_type menu-item-object-page menu-item-208">
                                                                                 <a
-                                                                                    href="https://aidus.wpolive.com/causes/">Causes</a>
+                                                                                    href="/causes/">Causes</a>
                                                                             </li>
                                                                             <li id="menu-item-3555"
                                                                                 className="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-3555">
                                                                                 <a
-                                                                                    href="https://aidus.wpolive.com/donations/lets-be-kind-for-the-poor-children/">Cause
+                                                                                    href="/donations/lets-be-kind-for-the-poor-children/">Cause
                                                                                     Single</a></li>
                                                                         </ul>
                                                                     </li>
                                                                     <li id="menu-item-211"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-211">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/volunteer/">Volunteer</a>
+                                                                            href="/volunteer/">Volunteer</a>
                                                                         <ul className="sub-menu">
                                                                             <li id="menu-item-212"
                                                                                 className="menu-item menu-item-type-post_type menu-item-object-page menu-item-212">
                                                                                 <a
-                                                                                    href="https://aidus.wpolive.com/volunteer/">Volunteer</a>
+                                                                                    href="/volunteer/">Volunteer</a>
                                                                             </li>
                                                                             <li id="menu-item-210"
                                                                                 className="menu-item menu-item-type-post_type menu-item-object-page menu-item-210">
                                                                                 <a
-                                                                                    href="https://aidus.wpolive.com/volunteer-s2/">Volunteer
+                                                                                    href="/volunteer-s2/">Volunteer
                                                                                     S2</a></li>
                                                                             <li id="menu-item-3241"
                                                                                 className="menu-item menu-item-type-post_type menu-item-object-team menu-item-3241">
                                                                                 <a
-                                                                                    href="https://aidus.wpolive.com/team/joshua-nunnally/">Volunteer
+                                                                                    href="/team/joshua-nunnally/">Volunteer
                                                                                     Single</a></li>
                                                                             <li id="menu-item-3266"
                                                                                 className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3266">
                                                                                 <a
-                                                                                    href="https://aidus.wpolive.com/become-volunteer/">Become
+                                                                                    href="/become-volunteer/">Become
                                                                                     Volunteer</a></li>
                                                                         </ul>
                                                                     </li>
                                                                     <li id="menu-item-3267"
                                                                         className="menu-item menu-item-type-custom menu-item-object-custom menu-item-3267">
-                                                                        <a href="https://aidus.wpolive.com/404/">Error
+                                                                        <a href="/404/">Error
                                                                             404</a></li>
                                                                 </ul>
                                                             </li>
                                                             <li id="menu-item-213"
                                                                 className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-213">
                                                                 <a
-                                                                    href="https://aidus.wpolive.com/services/">Services</a>
+                                                                    href="/services/">Services</a>
                                                                 <ul className="sub-menu">
                                                                     <li id="menu-item-214"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-214">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/services/">Services</a>
+                                                                            href="/services/">Services</a>
                                                                     </li>
                                                                     <li id="menu-item-2964"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-service menu-item-2964">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/service/fund-raised-donation/">Service
+                                                                            href="/service/fund-raised-donation/">Service
                                                                             Single</a></li>
                                                                 </ul>
                                                             </li>
                                                             <li id="menu-item-2965"
                                                                 className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2965">
-                                                                <a href="https://aidus.wpolive.com/events/">Events</a>
+                                                                <a href="/events/">Events</a>
                                                                 <ul className="sub-menu">
                                                                     <li id="menu-item-206"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-206">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/events/">Events</a>
+                                                                            href="/events/">Events</a>
                                                                     </li>
                                                                     <li id="menu-item-3008"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-event menu-item-3008">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/event/clean-water-to-rural/">Event
+                                                                            href="/event/clean-water-to-rural/">Event
                                                                             Single</a></li>
                                                                 </ul>
                                                             </li>
                                                             <li id="menu-item-217"
                                                                 className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-217">
-                                                                <a href="https://aidus.wpolive.com/shop-page/">Shop</a>
+                                                                <a href="/shop-page/">Shop</a>
                                                                 <ul className="sub-menu">
                                                                     <li id="menu-item-218"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-218">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/shop-page/">Shop</a>
+                                                                            href="/shop-page/">Shop</a>
                                                                     </li>
                                                                     <li id="menu-item-3168"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-product menu-item-3168">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/product/glossy-cosmetic/">Shop
+                                                                            href="/product/glossy-cosmetic/">Shop
                                                                             Single</a></li>
                                                                     <li id="menu-item-219"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-219">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/cart/">Cart</a>
+                                                                            href="/cart/">Cart</a>
                                                                     </li>
                                                                     <li id="menu-item-220"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-220">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/checkout/">Checkout</a>
+                                                                            href="/checkout/">Checkout</a>
                                                                     </li>
                                                                 </ul>
                                                             </li>
                                                             <li id="menu-item-221"
                                                                 className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-221">
-                                                                <a href="https://aidus.wpolive.com/blog/">Blog</a>
+                                                                <a href="/blog/">Blog</a>
                                                                 <ul className="sub-menu">
                                                                     <li id="menu-item-3009"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3009">
-                                                                        <a href="https://aidus.wpolive.com/blog/">Blog
+                                                                        <a href="/blog/">Blog
                                                                             Right Sidebar</a></li>
                                                                     <li id="menu-item-3010"
                                                                         className="menu-item menu-item-type-custom menu-item-object-custom menu-item-3010">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/blog/?sidebar=sidebar-left">Blog
+                                                                            href="/blog/?sidebar=sidebar-left">Blog
                                                                             Left Sidebar</a></li>
                                                                     <li id="menu-item-3011"
                                                                         className="menu-item menu-item-type-custom menu-item-object-custom menu-item-3011">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/blog/?sidebar=sidebar-hide">Blog
+                                                                            href="/blog/?sidebar=sidebar-hide">Blog
                                                                             Full Width</a></li>
                                                                     <li id="menu-item-3012"
                                                                         className="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-3012">
                                                                         <a
-                                                                            href="https://aidus.wpolive.com/how-your-generous-support-makes-a-difference/">Blog
+                                                                            href="/how-your-generous-support-makes-a-difference/">Blog
                                                                             Single</a>
                                                                         <ul className="sub-menu">
                                                                             <li id="menu-item-3013"
                                                                                 className="menu-item menu-item-type-post_type menu-item-object-post menu-item-3013">
                                                                                 <a
-                                                                                    href="https://aidus.wpolive.com/how-your-generous-support-makes-a-difference/">Blog
+                                                                                    href="/how-your-generous-support-makes-a-difference/">Blog
                                                                                     Right Sidebar</a></li>
                                                                             <li id="menu-item-3014"
                                                                                 className="menu-item menu-item-type-custom menu-item-object-custom menu-item-3014">
                                                                                 <a
-                                                                                    href="https://aidus.wpolive.com/how-your-generous-support-makes-a-difference/?sidebar=sidebar-left">Blog
+                                                                                    href="/how-your-generous-support-makes-a-difference/?sidebar=sidebar-left">Blog
                                                                                     Single Left Sidebar</a></li>
                                                                             <li id="menu-item-3015"
                                                                                 className="menu-item menu-item-type-custom menu-item-object-custom menu-item-3015">
                                                                                 <a
-                                                                                    href="https://aidus.wpolive.com/how-your-generous-support-makes-a-difference/?sidebar=sidebar-hide">Blog
+                                                                                    href="/how-your-generous-support-makes-a-difference/?sidebar=sidebar-hide">Blog
                                                                                     Single Full Width</a></li>
                                                                         </ul>
                                                                     </li>
@@ -325,7 +325,7 @@ function PublicHeader() {
                                                             </li>
                                                             <li id="menu-item-3050"
                                                                 className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3050">
-                                                                <a href="https://aidus.wpolive.com/contact/">Contact</a>
+                                                                <a href="/contact/">Contact</a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -340,7 +340,7 @@ function PublicHeader() {
                                                                     className="fi ti-search"></i></button>
                                                                 <div className="header-search-form">
                                                                     <form method="get"
-                                                                        action="https://aidus.wpolive.com/"
+                                                                        action="/"
                                                                         className="form">
                                                                         <div>
                                                                             <input type="text" name="s"
@@ -373,7 +373,7 @@ function PublicHeader() {
                                                                     <div className="cart-emty-icon">
                                                                         <i className="fi ti-shopping-cart"></i>
                                                                     </div>
-                                                                    <a href="https://aidus.wpolive.com/shop/"
+                                                                    <a href="/shop/"
                                                                         className="view-cart-btn s2">
                                                                         Start Shopping </a>
                                                                 </div>
@@ -384,17 +384,17 @@ function PublicHeader() {
                                                                                 className="woocommerce-Price-currencySymbol">$</span>0.00</bdi></span></span>
                                                                     </span>
 
-                                                                    <a href="https://aidus.wpolive.com/checkout/"
+                                                                    <a href="/checkout/"
                                                                         className="view-cart-btn s1">
                                                                         Checkout </a>
-                                                                    <a href="https://aidus.wpolive.com/cart/"
+                                                                    <a href="/cart/"
                                                                         className="view-cart-btn">
                                                                         View Cart </a>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div className="close-form">
-                                                            <a href="https://aidus.wpolive.com/donations/lets-be-kind-for-the-poor-children/"
+                                                            <a href="/donations/lets-be-kind-for-the-poor-children/"
                                                                 className="theme-btn">Donate now</a>
                                                         </div>
                                                     </div>

@@ -1,5 +1,5 @@
 import React from 'react'
-import PublicBanner from '../_components/PublicBanner'
+import PublicBanner from '../../_components/PublicBanner'
 import CausesCharityMakeNoDecrease from './_components/CausesCharityMakeNoDecrease'
 
 function CausesPage() {

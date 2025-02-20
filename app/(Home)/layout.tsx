@@ -43,8 +43,8 @@ import "@/public/assets/css/flaticon_1.css"
 import "@/public/assets/css/flaticon_1.css"
 import "@/public/assets/css/wc-blocks.css"
 import "@/public/assets/css/post-16.css"
-import PublicHeader from "../(Public)/_components/PublicHeader";
-import PublicFooter from "../(Public)/_components/PublicFooter";
+import PublicHeader from "../_components/PublicHeader";
+import PublicFooter from "../_components/PublicFooter";
 import Image from "next/image";
 import { useEffect } from "react";
 
